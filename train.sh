@@ -1,0 +1,1 @@
+nohup python train_smaller_model.py --data_path "./datas/muon/model+geant4_mu-_50m.npy" --ckpt_name "./ckpts/mu-_50m_2layer_project_ckpt" --mean 3.4116 --len_data 307450 > ./logs/mu-_50m.log 2>&1 &

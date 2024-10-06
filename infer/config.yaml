@@ -1,0 +1,4 @@
+0m:
+  ckpt_path: ../ckpts/mu-_0m_2layer_ckpt
+  energy_mean: 3.1276
+
